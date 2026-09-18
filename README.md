@@ -7,10 +7,18 @@
 - ⚡ Fun fact: I host services and tools in my HomeLab.
 
 ## Technologies and Tools:
+*Languages and frameworks*
+
 [![Stack](https://skillicons.dev/icons?i=go,php,javascript,laravel,react,rails)](https://skillicons.dev)
+
+*Services and databases*
 
 [![Storaging](https://skillicons.dev/icons?i=postgresql,sqlite,redis,rabbitmq,prometheus,mysql)](https://skillicons.dev)
 
+*Devtools*
+
 [![Tools](https://skillicons.dev/icons?i=vscode,vim,gitlab,phpstorm,postman)](https://skillicons.dev)
+
+*DevOps*
 
 [![Infrastructure](https://skillicons.dev/icons?i=docker,grafana,jenkins)](https://skillicons.dev)
