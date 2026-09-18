@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there, I'm Eduard Larionov - aka vesh95 👋
 
-<!--
-**vesh95/vesh95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Backend developer
 
-Here are some ideas to get you started:
+- 🌱 Right now, I’m learning how to work with products — from development to technical support.
+- 📫 How to reach me: by my email address
+- ⚡ Fun fact: I host services and tools in my HomeLab.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies and Tools:
+[![Stack](https://skillicons.dev/icons?i=go,php,javascript,laravel,react,rails)](https://skillicons.dev)
+
+[![Storaging](https://skillicons.dev/icons?i=postgresql,sqlite,redis,rabbitmq,prometheus,mysql)](https://skillicons.dev)
+
+[![Tools](https://skillicons.dev/icons?i=vscode,vim,gitlab,phpstorm,postman)](https://skillicons.dev)
+
+[![Infrastructure](https://skillicons.dev/icons?i=docker,grafana,jenkins)](https://skillicons.dev)
